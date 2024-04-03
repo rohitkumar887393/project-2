@@ -1,6 +1,5 @@
 #include <LiquidCrystal.h>
 #include <IRremote.h>
-
 #define SOIL_SENSOR A0
 #define IR_RECEIVER 2
 #define IR_REMOTE   3
